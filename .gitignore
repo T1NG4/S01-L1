@@ -1,0 +1,29 @@
+# Compilados FreeBASIC / Windows
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+*.so
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+ehthumbs.db
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Cursor (regras locais)
+.cursor/
+
+# Temporários
+*.tmp
+*.temp
+*.log
+*.bak
