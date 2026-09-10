@@ -1,3 +1,5 @@
+Dim As Double peso, aguaIngerida, meta
+
 PRINT "Calculo da meta diaria de agua"
 PRINT
 
@@ -14,4 +16,4 @@ IF aguaIngerida >= meta THEN
 ELSE
     PRINT "Meta não atingida"
 END IF
-sleep
+Sleep

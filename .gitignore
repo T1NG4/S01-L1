@@ -5,6 +5,7 @@
 *.a
 *.dll
 *.so
+*.pdb
 
 # Sistema operacional
 Thumbs.db

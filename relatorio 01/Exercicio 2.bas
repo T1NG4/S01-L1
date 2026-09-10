@@ -1,3 +1,5 @@
+Dim As Integer pinCorreto, pinDigitado
+
 pinCorreto = 4321
 
 INPUT "Digite o PIN de acesso: ", pinDigitado
@@ -8,4 +10,4 @@ WHILE pinDigitado <> pinCorreto
 WEND
 
 PRINT "Transação autorizada!"
-sleep
+Sleep
