@@ -3,9 +3,9 @@ Matricula: 822
 
 ---
 
-Pode fazer o commit do relatório 02 pra mim?
+Manda o commit do relatório 02.
 
-Pode sim. Quando você pedir, eu faço o commit com o tipo feat:
+Ok:
 
 git add "relatorio 02"
 git commit -m "feat(relatorio-02): adicionar exercícios em Lua"
