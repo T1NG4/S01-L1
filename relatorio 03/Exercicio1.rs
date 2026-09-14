@@ -17,7 +17,7 @@ fn validar_placa(placa: &str) -> bool {
         }
     }
 
-    letras_maiusculas >= 4 && numeros >= 2
+    letras_maiusculas >= 3 && numeros >= 2
 }
 
 fn main() {
